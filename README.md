@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sathish18-hash/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sathish18-hash/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Sathish18-hash/Leetcode/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sathish18-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/Sathish18-hash/Leetcode/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
