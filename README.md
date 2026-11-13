@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sathish18-hash/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sathish18-hash/Leetcode/tree/master/0015-3sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Sathish18-hash/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Sathish18-hash/Leetcode/tree/master/0204-count-primes) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sathish18-hash/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sathish18-hash/Leetcode/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sathish18-hash/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathish18-hash/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -114,4 +116,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sathish18-hash/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
