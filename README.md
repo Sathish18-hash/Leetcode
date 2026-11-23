@@ -135,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sathish18-hash/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sathish18-hash/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sathish18-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
