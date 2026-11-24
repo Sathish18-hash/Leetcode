@@ -135,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sathish18-hash/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sathish18-hash/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sathish18-hash/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathish18-hash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sathish18-hash/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathish18-hash/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
