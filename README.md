@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sathish18-hash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Sathish18-hash/Leetcode/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sathish18-hash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathish18-hash/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sathish18-hash/Leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Sathish18-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sathish18-hash/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sathish18-hash/Leetcode/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Sathish18-hash/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -203,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sathish18-hash/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
