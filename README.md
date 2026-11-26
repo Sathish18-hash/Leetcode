@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sathish18-hash/Leetcode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Sathish18-hash/Leetcode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/Sathish18-hash/Leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Sathish18-hash/Leetcode/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sathish18-hash/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Sathish18-hash/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
